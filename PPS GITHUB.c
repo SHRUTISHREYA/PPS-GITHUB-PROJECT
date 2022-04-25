@@ -1,4 +1,4 @@
-/C program to print all leap years from 1 to N./
+//C program to print all leap years from 1 to N./
  
 #include <stdio.h>
  
